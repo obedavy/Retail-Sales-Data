@@ -1,6 +1,7 @@
 # Retail-Sales-Data
 
 📊 Retail Sales Visualization with Python
+
 📝 Project Overview
 
 This project explores retail sales data (Superstore Dataset) to uncover business insights through data visualization. Using Python libraries like Matplotlib, Seaborn, and Plotly, I created static and interactive charts to analyze trends, customer behavior, product performance, and profitability.
