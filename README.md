@@ -14,7 +14,6 @@ Retail companies generate thousands of transactions daily but often lack clarity
 * Which products and categories are most profitable?
 * Which customer segments and regions drive revenue?
 * How discounts impact profitability?
-* How discounts impact profitability?
 * What seasonal sales patterns exist?
 
 ✅ Objectives
@@ -59,7 +58,8 @@ Columns:
 
 🔑 Insights & Findings
 
-Discounts above ~40% generally lead to negative profits.
-Furniture sales are strong but profit margins are lower compared to Office Supplies.
-The West region leads in sales, while the South shows stronger profitability.
-A small percentage of high-value customers drive the majority of revenue (Pareto Principle).
+* Seasonal sales pattern follows holiday sales.
+* Consumer segment drives the revenue at most.
+* Discounts above ~40% generally lead to negative profits.
+* Furniture sales are strong but profit margins are lower compared to Office Supplies.
+* The West region leads in sales (U.S), while the South shows stronger profitability.
