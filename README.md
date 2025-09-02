@@ -4,7 +4,7 @@
 
 📝 Project Overview
 
-This project explores retail sales data (Superstore Dataset) to uncover business insights through data visualization. Using Python libraries like Matplotlib, Seaborn, and Plotly, I created static and interactive charts to analyze trends, customer behavior, product performance, and profitability.
+This project explores retail sales data (Global Superstore Dataset) to uncover business insights through data visualization. Using Python libraries like Matplotlib, Seaborn, and Plotly, I created static and interactive charts to analyze trends, customer behavior, product performance, and profitability.
 
 The goal is to demonstrate how data storytelling can guide business decisions and showcase data visualization skills for data science.
 
